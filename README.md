@@ -32,7 +32,7 @@ To get started with the GoShopping Application, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/GoShopping.git
+   git clone https://github.com/abdul-1432/GoShopping/tree/main
    ```
 
 2. Open the project in your preferred Java development environment (e.g., Eclipse, IntelliJ).
