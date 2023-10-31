@@ -59,6 +59,6 @@ If you would like to contribute to the project, feel free to fork the repository
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the license terms.
+This project is licensed under the [TNS Foundation](LICENSE). Feel free to use, modify, and distribute the code as per the license terms.
 
 Happy shopping with GoShopping! 🛍️
